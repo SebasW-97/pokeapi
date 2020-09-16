@@ -1,4 +1,4 @@
-# Notas importantes CMS 01042020
+# Notas importantes CMS 16092020
 
 
 Proyecto desarrollado para la materia Arquitectura de Software end politécnico Grancolombiano
@@ -19,9 +19,4 @@ Finalmente correr el `ng serve`
 Si es necesario se debe deshabilitar la restricción de scripts en windows para que el ng funcione.
 Fin Notas
 
-<<<<<<< HEAD
-Fin notas
-
-=======
 Exitos!
->>>>>>> 48eecd5ba54adbdf6c1051d4d0b4e8fb19f6edc0
